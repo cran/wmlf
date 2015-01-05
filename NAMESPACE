@@ -1,0 +1,12 @@
+exportMethods(
+    "plotfit",
+    "[",
+    "$",
+    "fit"    
+)
+exportClasses(
+    "Leader"
+)
+export("leader")
+
+import(waveslim,methods)

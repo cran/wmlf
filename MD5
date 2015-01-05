@@ -1,0 +1,10 @@
+debff61ed8fc632ab9c8148dd618eaec *DESCRIPTION
+02a5c5fd599fb8f40ac7d25cd04ca18a *NAMESPACE
+77bf2cca3114a7cc11cc5b5256c5dd54 *R/class_leader.R
+363f17bb55adf7fb5fc04a3b5b37a918 *data/bocage.RData
+af3b5edc7eb0e4ef4c968d5b4c0cf8ef *data/openfield.RData
+b7075f6e463c4cd8edee3d6bad3b4b23 *man/bocage.Rd
+ef9d885035907e22f71ce9ef8a901c0b *man/fit.Rd
+9a884a424c8237f7a6b8b9e2ca7b636f *man/leader.Rd
+687805624617986110d901aeb3d2ee7f *man/openfield.Rd
+b3d1910ff84e30e621ed5283632f7a4d *man/plotfit.Rd
